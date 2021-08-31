@@ -3,9 +3,13 @@
 - 📚 I like Analysing Datasets with Excel and Python and visualising them with platforms such as tableau  
 - 🌱 I’m currently exploring App Development with Kotlin and Python for Data Science
 - 📫 How to reach me ...
+
     LinkedIn ~ www.linkedin.com/in/aman-kumar-singh-062021193
+    
     Gmail ~ amansinghyellow@gmail.com   
+    
     HackerRank ~ https://www.hackerrank.com/amansinghyellow
+    
     CodeChef ~ https://www.codechef.com/users/amann_k
 
 <!---
