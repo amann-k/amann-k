@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aman
-- 👀 I’m interested in Data Science and Data Analysis and Visualization , App Development
+- 👀 I’m interested in Data Science , Data Analysis and Visualization , App Development
 - 📚 I like Analysing Datasets with Excel and Python and visualising them with platforms such as tableau  
 - 🌱 I’m currently exploring App Development with Kotlin and Python for Data Science
 - 📫 How to reach me ...
