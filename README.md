@@ -4,7 +4,7 @@
 - 🌱 I’m currently exploring App Development with Kotlin and Python for Data Science
 - 📫 How to reach me ...
 
-    LinkedIn ~ www.linkedin.com/in/aman-kumar-singh-062021193
+    LinkedIn ~ www.linkedin.com/in/aman-ksingh
     
     Gmail ~ amansinghyellow@gmail.com   
     
